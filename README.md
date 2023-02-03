@@ -4,11 +4,10 @@
 Project for computer networks course.
 
 ### Description
-Project comprises of server implemented in C and client implemented in Java.
-Client encrypts input, provided by user, using Vigenère cipher and server decrypts it.
+Project comprises of server implemented in C and client implemented in Java. Communication is carried out using network sockets. Client encrypts input, provided by user, using Vigenère cipher and server decrypts it.
 
 ### Technologies
-Project is created with:
+The project was created with:
 - Java 11
 - C 17
 
