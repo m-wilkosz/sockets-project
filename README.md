@@ -1,5 +1,5 @@
 # Network Sockets Project
-[![](https://skills.thijs.gg/icons?i=java,c)](https://skills.thijs.gg)
+[![](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
 
 Project for computer networks course.
 
