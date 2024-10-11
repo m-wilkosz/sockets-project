@@ -1,15 +1,10 @@
-# Network Sockets Project
+# Network Sockets
 [![](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
 
-Project for computer networks course.
+Simple client-server architecture implementation. Project done for undergraduate computer networks course.
 
 ### Description
-Project comprises of server implemented in C and client implemented in Java. Communication is carried out using network sockets. Client encrypts input, provided by user, using Vigenère cipher and server decrypts it.
-
-### Technologies
-The project was created with:
-- Java 11
-- C 17
+The software handles a text file transmission from the client (implemented in Java) to the server (implemented in C), where the server decrypts it, searches for a specified pattern using a string-matching algorithm (Knuth-Morris-Pratt), and then returns the pattern occurrence count back to the client.
 
 ### Setup
 To run server:
